@@ -16,3 +16,8 @@ cat "./contact.txt"
 Email: hello@rfahmi.com
 LinkedIn: linkedin.com/in/rfahmi
 ```
+
+
+```sh
+echo "I like cats. 🐱"
+```
